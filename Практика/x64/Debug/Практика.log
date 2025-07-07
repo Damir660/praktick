@@ -3,4 +3,8 @@ C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(13,14): er
 C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
 C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(49,6): error C2065: choice: необъявленный идентификатор
 C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(59,6): error C2065: choice: необъявленный идентификатор
+C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(69,7): error C2601: Alg_Prima: недопустимые локальные определения функций
+      C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(17,1):
+      эта строка содержит скобку "{", которая пока не имеет парной
+  
 C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(17,1): error C1075: "{": не найдена несоответствующая лексема

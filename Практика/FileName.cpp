@@ -66,3 +66,10 @@ int main()
 			}
 		}
 	}
+	void Alg_Prima(int n, int** matr, int* selected) {
+		// логика алгоритма
+		while (no_edge < n - 1) {
+			// поиск минимального ребра
+			printf("%d - %d : %d\n", x, y, matr[x][y]);
+		}
+	}
