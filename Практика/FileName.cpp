@@ -79,3 +79,6 @@ int main()
 			exit(0);
 		}
 	}
+	FILE* file = fopen("text.txt", "a");
+	fprintf(file, "%d - %d : %d\n", x, y, matr[x][y]);
+	fclose(file);

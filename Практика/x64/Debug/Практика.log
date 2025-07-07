@@ -7,4 +7,8 @@ C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(69,7): err
       C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(17,1):
       эта строка содержит скобку "{", которая пока не имеет парной
   
+C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(83,34): error C2065: x: необъявленный идентификатор
+C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(83,37): error C2065: y: необъявленный идентификатор
+C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(83,45): error C2065: x: необъявленный идентификатор
+C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(83,48): error C2065: y: необъявленный идентификатор
 C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(17,1): error C1075: "{": не найдена несоответствующая лексема
