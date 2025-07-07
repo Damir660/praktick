@@ -56,3 +56,13 @@ int main()
 			}
 		}
 	}
+	if (choice == '2') {
+		printf("¬ведите размер матрицы: ");
+		scanf("%d", &n);
+		// ввод элементов матрицы вручную
+		for (int i = 0; i < n; i++) {
+			for (int j = 0; j < n; j++) {
+				if (i < j) scanf("%d", &matr[i][j]);
+			}
+		}
+	}
