@@ -1,14 +1,3 @@
 ﻿  FileName.cpp
-C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(13,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(49,6): error C2065: choice: необъявленный идентификатор
-C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(59,6): error C2065: choice: необъявленный идентификатор
-C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(69,7): error C2601: Alg_Prima: недопустимые локальные определения функций
-      C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(17,1):
-      эта строка содержит скобку "{", которая пока не имеет парной
-  
-C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(83,34): error C2065: x: необъявленный идентификатор
-C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(83,37): error C2065: y: необъявленный идентификатор
-C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(83,45): error C2065: x: необъявленный идентификатор
-C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(83,48): error C2065: y: необъявленный идентификатор
-C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(17,1): error C1075: "{": не найдена несоответствующая лексема
+C:\Users\Damir\Desktop\Практика\Практика\FileName.cpp(116,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Практика.vcxproj -> C:\Users\Damir\Desktop\Практика\x64\Debug\Практика.exe
