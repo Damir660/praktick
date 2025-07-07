@@ -73,3 +73,9 @@ int main()
 			printf("%d - %d : %d\n", x, y, matr[x][y]);
 		}
 	}
+	for (int i = 0; i < n; i++) {
+		if (stp[i] == 0) {
+			printf("Алгоритм не работает при изолированных вершинах!");
+			exit(0);
+		}
+	}
